@@ -14,7 +14,7 @@ body{
 color: var(--prymary-text);
 background-color:var(--white);
 letter-spacing: 0.03em;
-font-family:roboto,sans-serif;
+font-family:'Roboto',sans-serif;
 }
 .hidden{
 display:none;
@@ -33,7 +33,7 @@ text-align:center;
 
 .logo{
 color:var(--blue);
-font-family:Raleway;
+font-family:'Raleway';
 font-weight:700;
 font-size:26px;
 line-height:1.19;
